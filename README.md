@@ -19,6 +19,11 @@ Olá, meu nome é Davidson Sampaio! 👋
 ![Git](https://img.shields.io/badge/-Git-94D2BD?style=flat&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-001219?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-3D5A80?style=flat&logo=githubactions&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-5e60ce?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffb703?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-0077b6?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-38b000?style=flat&logo=nodedotjs&logoColor=white)
+
 
 ## 📚 Outras tecnologias
 
