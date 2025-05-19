@@ -6,7 +6,7 @@ Olá, meu nome é Davidson Sampaio! 👋
 🇺🇸 Back-end developer focused on PHP and Python.
 
 ## 📊 Estatísticas do GitHub de DavidsonSampaio
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4vidson&show_icons=true&theme=midnight-red)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4vidson&show_icons=true&theme=midnight-purple)
 </br>
 ## Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=D4vidson&layout=compact&theme=midnight-blue)
