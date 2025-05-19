@@ -42,8 +42,9 @@ Olá, meu nome é Davidson Sampaio! 👋
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-davidsonsampaio08%40gmail.com-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidsonsampaio08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@davisonsampaio-264653?style=for-the-badge&logo=linkedin&logoColor=white)]([https://](https://www.linkedin.com/in/davidson-sampaio-822861256/))
+Email: davidsonsampaio08@gmail.com
+Linkedin: https://www.linkedin.com/in/davidson-sampaio-822861256/
+Celular:(11)971499558
 
 ## ⚡ Curiosidades
 
