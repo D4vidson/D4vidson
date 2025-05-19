@@ -2,8 +2,8 @@ Olá, meu nome é Davidson Sampaio! 👋
 
 <<<Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no 5º semestre, com duração total de 5 semestres e previsão de formação para junho de 2025.>>>
 
-🇧🇷 Desenvolvedor back-end com foco em PHP e Python.  
-🇺🇸 Back-end developer focused on PHP and Python.
+🇧🇷  
+🇺🇸 
 
 ## 📊 Estatísticas do GitHub de DavidsonSampaio
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4vidson&show_icons=true&theme=midnight-purple)
