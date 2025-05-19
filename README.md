@@ -42,9 +42,9 @@ Olá, meu nome é Davidson Sampaio! 👋
 
 ## 📫 Contato
 
-Email: davidsonsampaio08@gmail.com
-Linkedin: https://www.linkedin.com/in/davidson-sampaio-822861256/
-Celular:(11)971499558
+-Email: davidsonsampaio08@gmail.com
+-Linkedin: https://www.linkedin.com/in/davidson-sampaio-822861256/
+-Celular:(11)971499558
 
 ## ⚡ Curiosidades
 
